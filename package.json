@@ -1,0 +1,22 @@
+{
+  "name": "request-header-parser-nodejs",
+  "version": "1.0.0",
+  "description": "A simple app that fetches information from the headers on the request object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazeemkadiri/request-header-parser-nodejs.git"
+  },
+  "keywords": [
+    "nodejs-request-header"
+  ],
+  "author": "Kazeem Kadiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazeemkadiri/request-header-parser-nodejs/issues"
+  },
+  "homepage": "https://github.com/kazeemkadiri/request-header-parser-nodejs#readme"
+}
