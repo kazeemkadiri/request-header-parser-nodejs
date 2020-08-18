@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kazeemkadiri/request-header-parser-nodejs/issues"
   },
-  "homepage": "https://github.com/kazeemkadiri/request-header-parser-nodejs#readme"
+  "homepage": "https://github.com/kazeemkadiri/request-header-parser-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
